@@ -1,0 +1,10 @@
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\ChucNangThongKe\Doan_THHQTCSDL\bin\Debug\Doan_THHQTCSDL_MT.exe.config
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\ChucNangThongKe\Doan_THHQTCSDL\bin\Debug\Doan_THHQTCSDL_MT.exe
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\ChucNangThongKe\Doan_THHQTCSDL\bin\Debug\Doan_THHQTCSDL_MT.pdb
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\ChucNangThongKe\Doan_THHQTCSDL\obj\Debug\Doan_THHQTCSDL_MT.csproj.AssemblyReference.cache
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\ChucNangThongKe\Doan_THHQTCSDL\obj\Debug\Doan_THHQTCSDL_MT.Form1.resources
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\ChucNangThongKe\Doan_THHQTCSDL\obj\Debug\Doan_THHQTCSDL_MT.Properties.Resources.resources
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\ChucNangThongKe\Doan_THHQTCSDL\obj\Debug\Doan_THHQTCSDL_MT.csproj.GenerateResource.cache
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\ChucNangThongKe\Doan_THHQTCSDL\obj\Debug\Doan_THHQTCSDL_MT.csproj.CoreCompileInputs.cache
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\ChucNangThongKe\Doan_THHQTCSDL\obj\Debug\Doan_THHQTCSDL_MT.exe
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\ChucNangThongKe\Doan_THHQTCSDL\obj\Debug\Doan_THHQTCSDL_MT.pdb

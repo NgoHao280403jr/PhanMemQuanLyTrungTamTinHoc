@@ -1,0 +1,20 @@
+C:\Users\kongh\source\repos\Enroll\Enroll\bin\Debug\Enroll.exe.config
+C:\Users\kongh\source\repos\Enroll\Enroll\bin\Debug\Enroll.exe
+C:\Users\kongh\source\repos\Enroll\Enroll\bin\Debug\Enroll.pdb
+C:\Users\kongh\source\repos\Enroll\Enroll\obj\Debug\Enroll.csproj.AssemblyReference.cache
+C:\Users\kongh\source\repos\Enroll\Enroll\obj\Debug\Enroll.Form1.resources
+C:\Users\kongh\source\repos\Enroll\Enroll\obj\Debug\Enroll.Properties.Resources.resources
+C:\Users\kongh\source\repos\Enroll\Enroll\obj\Debug\Enroll.csproj.GenerateResource.cache
+C:\Users\kongh\source\repos\Enroll\Enroll\obj\Debug\Enroll.csproj.CoreCompileInputs.cache
+C:\Users\kongh\source\repos\Enroll\Enroll\obj\Debug\Enroll.exe
+C:\Users\kongh\source\repos\Enroll\Enroll\obj\Debug\Enroll.pdb
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\Enroll\Enroll\bin\Debug\Enroll.exe.config
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\Enroll\Enroll\bin\Debug\Enroll.exe
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\Enroll\Enroll\bin\Debug\Enroll.pdb
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\Enroll\Enroll\obj\Debug\Enroll.csproj.AssemblyReference.cache
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\Enroll\Enroll\obj\Debug\Enroll.Form1.resources
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\Enroll\Enroll\obj\Debug\Enroll.Properties.Resources.resources
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\Enroll\Enroll\obj\Debug\Enroll.csproj.GenerateResource.cache
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\Enroll\Enroll\obj\Debug\Enroll.csproj.CoreCompileInputs.cache
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\Enroll\Enroll\obj\Debug\Enroll.exe
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\Enroll\Enroll\obj\Debug\Enroll.pdb

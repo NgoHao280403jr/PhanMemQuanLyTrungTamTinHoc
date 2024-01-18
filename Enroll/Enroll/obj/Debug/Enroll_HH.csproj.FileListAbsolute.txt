@@ -1,0 +1,10 @@
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\Enroll\Enroll\bin\Debug\Enroll_HH.exe.config
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\Enroll\Enroll\bin\Debug\Enroll_HH.exe
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\Enroll\Enroll\bin\Debug\Enroll_HH.pdb
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\Enroll\Enroll\obj\Debug\Enroll_HH.csproj.AssemblyReference.cache
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\Enroll\Enroll\obj\Debug\Enroll_HH.Form1.resources
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\Enroll\Enroll\obj\Debug\Enroll_HH.Properties.Resources.resources
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\Enroll\Enroll\obj\Debug\Enroll_HH.csproj.GenerateResource.cache
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\Enroll\Enroll\obj\Debug\Enroll_HH.csproj.CoreCompileInputs.cache
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\Enroll\Enroll\obj\Debug\Enroll_HH.exe
+D:\hao\code 2013\DOT.NET\GomCodeHQTCSDL\Enroll\Enroll\obj\Debug\Enroll_HH.pdb
